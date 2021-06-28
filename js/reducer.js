@@ -17,3 +17,4 @@ function render(){
 }
 
 dispatch({ type: '@@INIT' })
+
